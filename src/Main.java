@@ -13,8 +13,7 @@ import org.apache.http.util.EntityUtils;
 
 
 public class Main {
-	//static String url = "http://dev.darthyogurt.com:8000/upload/";
-	static String url = "http://127.0.0.1:8000/upload/";
+	static String url = "http://127.0.0.1:8001/login/";
 	
 	public static void main(String[] args) throws ClientProtocolException, IOException {
 		multipartPost();
