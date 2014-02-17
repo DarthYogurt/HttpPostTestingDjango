@@ -1,0 +1,4 @@
+{"userId":1,"groupId":1,"checklistId":1,"steps":[{"stepId":1,"stepType":"bool","value":true},{"stepId":2,"stepType":"number","value":99.0},{"stepId":3,"stepType":"bool","value":false,"notifyUserId":2},{"stepId":4,"stepType":"bool","value":false}]}
+
+
+{"userId":1,"groupId":1,"checklistId":1,"steps":[{"stepId":1, "stepType": "number", "value": 301}, {"stepId":2,"stepType":"bool","value":true},{"stepId":3, "stepType": "text", "value": "THIS IS A TEST FOR TEXT"}, {"stepId":5,"stepType":"image","value":"image1"}]}

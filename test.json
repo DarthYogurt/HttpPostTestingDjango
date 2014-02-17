@@ -1,0 +1,40 @@
+{
+   "userId":1,
+   "groupId":1,
+   "checklistId":4,
+   "timeStarted":"02-02-14 22:40:47",
+   "timeFinished":"02-02-14 22:41:27",
+   "steps":[
+      {
+         "stepId":7,
+         "stepType":"text",
+         "value":"hello",
+         "timeStarted":"02-02-14 22:40:47",
+         "timeFinished":"02-02-14 22:40:51"
+      },
+      {
+         "stepId":8,
+         "stepType":"number",
+         "value":123.0,
+         "notifyUserId":1,
+         "timeStarted":"02-02-14 22:40:51",
+         "timeFinished":"02-02-14 22:40:59"
+      },
+      {
+         "stepId":9,
+         "stepType":"bool",
+         "value":false,
+         "notifyUserId":1,
+         "extraImage":"cid4_so3_extra_020214_224109.jpg",
+         "timeStarted":"02-02-14 22:40:54",
+         "timeFinished":"02-02-14 22:41:01"
+      },
+      {
+         "stepId":10,
+         "stepType":"image",
+         "value":"cid4_so4_020214_224120.jpg",
+         "timeStarted":"02-02-14 22:41:14",
+         "timeFinished":"02-02-14 22:41:20"
+      }
+   ]
+}
